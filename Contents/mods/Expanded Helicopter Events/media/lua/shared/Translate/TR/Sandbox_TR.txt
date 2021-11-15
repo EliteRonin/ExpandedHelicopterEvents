@@ -5,8 +5,8 @@ Sandbox_TR = {
 	Sandbox_ExpandedHeli_Frequency_option2 = "Nadir",
 	Sandbox_ExpandedHeli_Frequency_option3 = "Az",
 	Sandbox_ExpandedHeli_Frequency_option4 = "Orta",
-	Sandbox_ExpandedHeli_Frequency_option5 = "Çok",
-	Sandbox_ExpandedHeli_Frequency_option6 = "Aşırı",
+	Sandbox_ExpandedHeli_Frequency_option5 = "Cok",
+	Sandbox_ExpandedHeli_Frequency_option6 = "Asiri",
 
     Sandbox_ExpandedHeli_EventJet = "Jets",
     Sandbox_ExpandedHeli_EventJet_tooltip = "Jet uçakları ne sıklıkla olacak",
